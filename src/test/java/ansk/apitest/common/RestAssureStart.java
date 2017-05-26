@@ -22,7 +22,14 @@ import static org.hamcrest.Matchers.*;
  */
 public class RestAssureStart {
 
-    // TODO
+    // TODO 1. Data Provider
+    // TODO 2. Json Schema check
+    // TODO 3. Json response to collection
+    // TODO 4. Cookies + Headers get and pass
+    // TODO 5. Comparing xml/xls/txt responses
+    // TODO 6. Detailed logging
+    // TODO 7. Test with async request
+
 //    @DataProvider(name = "circuits")
 //    public String[][] createCircuitData() {
 //        return new String[][] {
